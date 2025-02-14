@@ -39,7 +39,7 @@ namespace MySampleEx
             }
             if (Input.GetKeyDown(KeyCode.O))
             {
-                OpenPlayerStatsUI();                
+                OpenPlayerStatsUI();               
             }
             if (Input.GetKeyDown(KeyCode.Q))
             {
